@@ -1,6 +1,6 @@
 # udp_packetdup: repeat udp packets
 
-This is tool that repeats UDP packets to mitigate packet loss.
+An LD_PRELOAD trick that makes applications repeat UDP packets to mitigate packet loss.
 
 # Compile
 
